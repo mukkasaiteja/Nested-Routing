@@ -1,0 +1,12 @@
+import React from 'react'
+
+function Home() {
+  return (
+    <div>
+      <h1 style={{textAlign:'center'}}>Home</h1>
+      <p style={{margin:'30px',}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis in laudantium vitae, possimus recusandae architecto quis magnam repudiandae, sequi molestiae fuga numquam illo exercitationem aspernatur, quo perferendis! Temporibus fuga quas fugiat sequi debitis ex odit eos ipsum atque maxime dolorum illo ad commodi veritatis, autem quis ullam, natus totam architecto voluptatum in consequuntur. Cum minima nihil ea. Magnam et temporibus, unde amet, alias excepturi dignissimos labore adipisci, assumenda quos exercitationem numquam? Non optio, provident praesentium odit recusandae placeat, unde corrupti totam amet, rerum consequatur officiis possimus veritatis fugiat perferendis sunt ipsa blanditiis autem consectetur est repudiandae fuga. Itaque at odio minus corporis nemo eos quidem, ipsum maxime quia nam amet id fugiat explicabo ad, possimus veritatis illum voluptatum quas. Officiis facere aliquid velit recusandae nesciunt, dolores repellendus facilis excepturi impedit esse necessitatibus qui, blanditiis distinctio quam laboriosam temporibus odio iusto aut nulla? Quia temporibus consequatur nostrum delectus? Eligendi quos repudiandae laborum est voluptatibus possimus recusandae ad, unde dolores nisi reprehenderit quod! Aperiam accusamus nisi sunt aliquam reiciendis hic enim omnis architecto! Error amet voluptas inventore optio aliquid eius consectetur nobis laudantium asperiores, exercitationem suscipit voluptatibus blanditiis natus dolor alias unde distinctio. Cum alias nam sit quidem hic deserunt recusandae, itaque quam? Nihil alias dignissimos quidem deserunt inventore, nulla quo unde quisquam ratione, sequi fuga molestias ad iusto quis dolore eveniet commodi exercitationem accusantium laudantium assumenda nostrum, ab non? Reiciendis, perferendis? Enim consectetur odit hic accusamus consequuntur doloremque ipsum blanditiis voluptatibus sint nisi quaerat consequatur rerum illum, officia alias, iste cum optio perferendis assumenda! Ipsum recusandae, saepe dolore, distinctio unde inventore quas porro suscipit eaque fugit ut cumque adipisci quod fugiat repellat natus sapiente veritatis perferendis nihil, doloribus aperiam ullam. Iste, sequi fugit vitae at laudantium illo distinctio, voluptatem labore adipisci aliquid hic porro reprehenderit excepturi quos eius, suscipit obcaecati repellat!</p>
+    </div>
+  )
+}
+
+export default Home

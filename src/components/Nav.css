@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+background-color: black;
+color: yellow;
+padding: 20px;
+align-items: center;
+}
+.nav-items .items{
+    color: yellow;
+   margin-right: 40px;
+   text-decoration: none;
+}
